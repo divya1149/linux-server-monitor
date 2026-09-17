@@ -157,7 +157,7 @@ This screenshot shows the generated server report containing system metrics, hea
 
 This screenshot demonstrates the continuous monitoring script running at regular intervals.
 
-![Continuous Monitoring](screenshots/continuous-monitor.png)
+![Continuous Monitoring](screenshots/continous-monitor.png)
 
 ### Cron Automation
 
