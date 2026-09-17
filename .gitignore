@@ -1,0 +1,12 @@
+# Logs
+logs/*.log
+
+# Generated reports
+reports/*.txt
+
+# Generated backups
+backups/*.tar.gz
+
+# Temporary files
+*.tmp
+*.swp
